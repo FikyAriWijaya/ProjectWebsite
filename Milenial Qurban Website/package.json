@@ -1,0 +1,8 @@
+{
+  "name": "millennial-qurban-vercel",
+  "version": "1.0.0",
+  "description": "Website Millennial Qurban / Website Administrasi untuk deploy di Vercel, memakai Vercel KV sebagai pengganti window.storage.",
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
